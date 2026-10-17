@@ -20,11 +20,11 @@
 
 ## Build Gallery
 | Testing & Design | Operation / Showcase |
-| :---: | :---: |
-| ![Breadboarding](assest/breadboard.gif) | ![Hero Image](assets/hero.jpg) |
-| :---: | :---: |
+
+| ![Breadboarding](assests/breadboard.gif) | ![Hero Image](assets/hero.jpg) |
+
 | ![CAD Design](assets/cad.jpg) | ![Showcase](assets/showcase.gif) |
-| :---: |
+
 | ![3D Print](assets/print.jpg) |
 
 ---
