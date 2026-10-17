@@ -21,11 +21,11 @@
 ## Build Gallery
 | Breadboard Prototyping | CAD Design | 3D Printing |
 | :---: | :---: | :---: |
-| ![Breadboard](assets/breadboard.gif) | ![CAD](assets/cad.jpg) | ![Assembly](assets/print.jpg) |
+| ![Breadboard](assets/breadboard.gif) | ![CAD](assets/cad.jpg) | ![Assembly](assets/print.jpeg) |
 
 | Showcase | Hero Shot |
 | :---: | :---: |
-| ![Showcase](showcase.gif) | ![Hero](assets/hero.jpg) |
+| ![Showcase](showcase.gif) | ![Hero](assets/hero.jpeg) |
 
 ---
 
