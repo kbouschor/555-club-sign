@@ -2,7 +2,7 @@
 
 > A custom illuminated table display sign created for the WCC Beginner Electronics Club using a 555 timer circuit.
 
-![Hero Image](assets/hero.jpg)
+![Hero Image](assets/hero.jpeg)
 
 ## Overview
 * **Status:** Completed
