@@ -25,7 +25,7 @@
 
 | Showcase | Hero Shot |
 | :---: | :---: |
-| ![Showcase](showcase.GIF) | ![Hero](assets/hero.jpeg) |
+| ![Showcase](showcase.Gif) | ![Hero](assets/hero.jpeg) |
 
 ---
 
