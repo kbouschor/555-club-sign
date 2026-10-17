@@ -19,13 +19,13 @@
 ---
 
 ## Build Gallery
-| Testing & Design | Operation / Showcase |
+| Breadboard Prototyping | CAD Design | 3D Printing |
+| :---: | :---: | :---: |
+| ![Breadboard](assets/breadboard.gif) | ![CAD](assets/cad.jpg) | ![Assembly](assets/print.jpg) |
 
-| ![Breadboarding](assests/breadboard.gif) | ![Hero Image](assets/hero.jpg) |
-
-| ![CAD Design](assets/cad.jpg) | ![Showcase](assets/showcase.gif) |
-
-| ![3D Print](assets/print.jpg) |
+| Showcase | Hero Shot |
+| :---: | :---: |
+| ![Showcase](showcase.gif) | ![Hero](assets/hero.jpg) |
 
 ---
 
